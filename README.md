@@ -1,4 +1,4 @@
-# Foodora - MERN Stack Food Delivery App (Zomato/Swiggy Clone)
+# Foodora - MERN Stack Food Delivery App
 
 ## Overview
 Foodora is a complete, production-ready food delivery application built using the MERN stack (MongoDB, Express.js, React 18 with Vite, Node.js). It features two distinct panels: an Admin Panel for managing restaurants, foods, and orders, and a Customer App for browsing, cart management, and order tracking.
